@@ -1,0 +1,36 @@
+.main-info__heading {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 120%;
+}
+
+.main-info__buttons {
+    column-gap: 20px;
+}
+
+.main-info__list {
+    margin-top: 40px;
+    column-gap: 119px;
+}
+
+.main-info__list-quantity {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+}
+
+.main-info__list-name {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.main-info__image {
+    width: 591px;
+    height: 517px;
+    background-image: url("./../../assets/nft-image-list.svg");
+}
