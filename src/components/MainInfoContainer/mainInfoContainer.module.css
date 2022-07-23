@@ -1,0 +1,35 @@
+.heading {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 120%;
+}
+
+.buttons {
+    column-gap: 20px;
+}
+
+.list {
+    margin-top: 40px;
+    column-gap: 119px;
+}
+
+.listQuantity {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+}
+
+.listName {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.mainImage {
+    width: 591px;
+    height: 517px;
+}
