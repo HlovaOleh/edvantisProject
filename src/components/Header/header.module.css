@@ -1,0 +1,34 @@
+.header {
+    height: 70px;
+    column-gap: 70px;
+}
+
+.logoContainer {
+    column-gap: 69px;
+}
+
+.logo {
+    margin: 0;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 38px;
+    cursor: pointer;
+}
+
+.logoText {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 38px;
+    color: #933ef2;
+}
+
+.menuContainer, .menu {
+    column-gap: 40px;
+}
+
+.item {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    cursor: pointer;
+}
